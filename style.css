@@ -1,0 +1,25 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-;
+}
+
+div{
+    background-image:linear-gradient(to right,red,green,white);
+}
+h1{
+    padding: 100px 50px 50px 100px;
+}
+p{
+    padding:0px 100px;
+}
+a{
+    padding:0px 100px;
+}
+a{
+    background-color: red;
+    padding:0px;
+    margin: 20px 30px 20px 10px:
+    display:inline-block;
+}
